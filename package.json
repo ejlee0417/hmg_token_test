@@ -1,0 +1,23 @@
+{
+  "name": "hmg_token_test",
+  "version": "1.0.0",
+  "description": "This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run: ```bash style-dictionary build ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "token-transformer tokens.json output.json && npx style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejlee0417/hmg_token_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejlee0417/hmg_token_test/issues"
+  },
+  "homepage": "https://github.com/ejlee0417/hmg_token_test#readme",
+  "dependencies": {
+    "token-transformer": "^0.0.32"
+  }
+}

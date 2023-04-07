@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "Common",
+      "type": "other"
+    }
+  }
+}
